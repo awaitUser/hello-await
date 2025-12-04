@@ -1,6 +1,8 @@
 # 🏗️ hello-await
 
-A beautiful, customizable CLI tool to display your developer profile card with an Arch Linux ASCII art logo. Perfect for sharing your skills and contact info in the terminal!
+A personal CLI tool to display your developer profile card with an Arch Linux ASCII art logo. Perfect for sharing your skills and contact info in the terminal!
+
+**Note:** This is a personal project created for `await`. While others can customize and use it, it's primarily designed for individual use.
 
 ## ✨ Features
 
@@ -121,8 +123,8 @@ MIT - Feel free to use and modify!
 
 ## 👤 Author
 
-Created by [awaitUser](https://github.com/awaitUser)
+Created for [await](https://github.com/awaitUser)
 
 ---
 
-**Made with ❤️ for developers who love the terminal**
+**Made with ❤️ for the terminal**
