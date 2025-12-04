@@ -1,0 +1,25 @@
+{
+  "name": "hello-await",
+  "version": "1.0.0",
+  "description": "Display your profile card with Arch Linux ASCII art",
+  "main": "src/index.js",
+  "bin": {
+    "hello-await": "bin/hello-await.js"
+  },
+  "scripts": {
+    "start": "node bin/hello-await.js",
+    "test": "node bin/hello-await.js"
+  },
+  "keywords": [
+    "profile",
+    "card",
+    "cli",
+    "arch",
+    "ascii"
+  ],
+  "author": "awaitUser",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
